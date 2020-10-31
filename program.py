@@ -1,3 +1,3 @@
 # Author SS
-print("My first Git program!!!")
+print("Hello, python")
 # (C) 2020
