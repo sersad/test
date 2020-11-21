@@ -7,3 +7,7 @@ print("Hello, python")
 
 def foo():
     pass
+
+
+def bar():
+    pass
